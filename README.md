@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Ecommerce App (React Project)
+### Initial Commands
+#### npm install
+#### npm start
+## [Project Link](https://pratheek5299-react-ecommerce-app.netlify.app/)
+## [Demo Video](https://drive.google.com/file/d/18o_bQwl1uxhXw9p1yInHiKyl_qutPzdx/view?usp=sharing)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Screenshots
 
-## Available Scripts
+### Home Page
+![Screenshot (46)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/7373a257-2d70-480b-8504-70f7e48b790d)
 
-In the project directory, you can run:
+### Products Page
+![Screenshot (47)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/671d2617-7a65-4597-b0e5-2b963a2ccabf)
 
-### `npm start`
+### Products Details Page
+![Screenshot (48)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/8832321f-1feb-40e7-89b2-4a77b5600c19)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot (49)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/04602e5e-07c8-4148-8df1-984b4f672f19)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Cart Page
+![Screenshot (50)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/09734fb1-ce6e-423e-a189-c850f9d52fb3)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Add a Product Page
+![Screenshot (51)](https://github.com/pratheek5299/react-ecommerce-app/assets/72083992/9a2c6417-af1d-41cd-86fc-2e0521f609f4)
