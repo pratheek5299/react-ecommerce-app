@@ -1,0 +1,26 @@
+.productsPage{
+    padding-top: 13vh;
+    /* background-color: lightblue; */
+    position: relative;
+}
+.sortContainer{
+    position: absolute;
+    top: 1rem;
+    right: 10rem;
+    /* background-color: lightblue; */
+    width: 12%;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: var(--primary);
+    color: white;
+    border-radius: 10px;
+}
+.sort{
+    cursor: pointer;
+}
+.cancel{
+    width: 10%;
+    cursor: pointer;
+}
